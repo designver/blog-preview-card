@@ -79,6 +79,9 @@ body {
   font-weight: 500;
   line-height: 150%;
   padding: 9.6875rem 1.5rem 9.75rem 1.5rem;
+  display: flex;
+  justify-content: center;
+  
 }
 
 .card {
